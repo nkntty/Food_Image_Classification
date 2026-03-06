@@ -16,3 +16,17 @@ unzip food-image-classification-dataset.zip
 The dataset folder should be placed at:
 
 /content/Food Classification dataset
+
+
+
+## Model
+
+ResNet18 (Transfer Learning)
+
+## Results
+
+Validation Accuracy: **82%**
+
+Epochs: 15  
+Framework: PyTorch  
+Environment: Google Colab (GPU)
