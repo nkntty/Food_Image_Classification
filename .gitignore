@@ -1,0 +1,16 @@
+# dataset
+Food Classification dataset/
+*.zip
+
+# kaggle credentials
+kaggle.json
+
+# model checkpoints
+*.pth
+
+# python cache
+__pycache__/
+*.pyc
+
+# colab
+.ipynb_checkpoints/
